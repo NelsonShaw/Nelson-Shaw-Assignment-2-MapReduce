@@ -8,7 +8,7 @@ Nelson Shaw
 
 Student ID: 991463584
 
-Language Choice: Anaconda3 + JupyterNotebooks + Python
+Language Choice: Anaconda3 + Jupyter Notebooks + Python
 
 The parallel solution uses multiprocessing.
 
